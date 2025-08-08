@@ -7,7 +7,10 @@
 ---
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-pandey-9a947520b)  | [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand200399)  | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.anandpandey.me)  | 📧 [pandeyanand2099@gmail.com](mailto:pandeyanand2099@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-pandey-9a947520b)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Anand200399)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.anandpandey.me)  
+📧 [pandeyanand2099@gmail.com](mailto:pandeyanand2099@gmail.com)
 
 ---
 
