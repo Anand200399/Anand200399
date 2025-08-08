@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./Git_Banner.png" alt="Header Banner" />
+</p>
+
+
+
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Anand S Pandey</h1>
 <p align="center">
