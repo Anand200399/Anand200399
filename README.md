@@ -26,9 +26,13 @@
 
 ---
 
-<!-- Tech Stack with two columns -->
-<h2>🛠️ Tech Stack & Tools</h2>
-<table>
+---
+
+## 🛠️ Tech Stack & Tools  
+
+<p align="center">
+
+<table align="center" style="margin-left:auto; margin-right:auto;">
   <tr>
     <td align="center" width="120">
       <a href="https://isocpp.org/" target="_blank" rel="noopener">
@@ -92,6 +96,10 @@
     <td></td>
   </tr>
 </table>
+
+</p>
+
+---
 
 ---
 
