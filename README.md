@@ -107,10 +107,10 @@
 <h2>💼 Professional Experience</h2>
 <h3>Software Engineer — Wipro Limited <small>(Oct 2021 – Nov 2023)</small></h3>
 <ul>
-  <li>🔹 Built backend automation tools in <strong>Python</strong>, reducing manual workload by <strong>40%</strong>.</li>
-  <li>🔹 Developed 10+ secure REST APIs with role-based access, cutting operational overhead by <strong>73%</strong>.</li>
-  <li>🔹 Led ERP cloud automation for EMEA region, improving deployment speed by <strong>42%</strong>.</li>
-  <li>🔹 Implemented CI/CD pipelines with Jenkins, containerized apps with Docker, deployed on Kubernetes — saving <strong>35%</strong> infrastructure costs.</li>
+  <li>Built backend automation tools in <strong>Python</strong>, reducing manual workload by <strong>40%</strong>.</li>
+  <li>Developed 10+ secure REST APIs with role-based access, cutting operational overhead by <strong>73%</strong>.</li>
+  <li>Led ERP cloud automation for EMEA region, improving deployment speed by <strong>42%</strong>.</li>
+  <li>Implemented CI/CD pipelines with Jenkins, containerized apps with Docker, deployed on Kubernetes — saving <strong>35%</strong> infrastructure costs.</li>
 </ul>
 
 ---
